@@ -1,7 +1,7 @@
 # Move-Homepage
 
-Designing Move's Homepage.
+Designing Move's homepage.
 
-MOVE is making a landing page for their new fitness app.
+MOVE is making a homepage for their new fitness app.
 
 
