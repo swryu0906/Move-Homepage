@@ -25,6 +25,15 @@ p {
 	text-transform: uppercase;
 }
 
+.btn:hover {
+	background: #11fbff;
+	cursor: pointer;
+	-webkit-transition: background 0.4s;
+	-moz-transition: background 0.4s;
+	-o-transition: background 0.4s;
+	transition: background 0.4s;
+}
+
 /* Main */
 .main {
 	height: 600px;
@@ -88,6 +97,15 @@ p {
 	display: inline-block;
 }
 
+.supporting .btn:hover {
+	background: #272432;
+	cursor: pointer;
+	-webkit-transition: background 0.4s;
+	-moz-transition: background 0.4s;
+	-o-transition: background 0.4s;
+	transition: background 0.4s;
+}
+
 /* Feature */
 .feature {
 	height: 600px;
@@ -105,6 +123,7 @@ p {
 	font-size: 60px;
 	margin: 0;
 	padding: 250px 0 0;
+	text-transform: uppercase;
 }
 
 /* Footer */
